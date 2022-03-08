@@ -1,0 +1,6 @@
+./node_modules/
+./Material/
+./log.txt
+./test.js
+./callBackQuery.json
+./auth.json
